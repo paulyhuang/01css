@@ -1,1 +1,71 @@
 /* custom css */
+
+body{
+	margin: o;
+	padding: 0;
+}
+
+section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+
+ul{
+	margin:0;
+	padding:0;
+	width:100%;
+}
+
+li{
+	margin: 0 1%;
+	padding: 10px:
+	wifth: 30%;
+	float: left;
+	list-style: none;
+}
+
+li.one{
+	margin: 0 1% 0 0;
+	background-color: #FFE0B2;
+}
+
+li.two{
+	background-color: #40B3DF;
+}
+
+li.three{
+	background-color: #DCEDC8 ;
+}
+
+h3 a{
+	display: blockcolor: #222;
+	text-decoration: none;
+}
+
+h3 a:hover{
+	color: #FFF;
+}
+
+/*
+.example-1{
+	margin: 1px 2px 3px 4px;
+	padding: 1px 2px 3px 4px;
+}
+
+.example-2{
+	margin-right: 4px;
+	margin-right: 4%;
+}
+
+
+	padding: 1%;
+	defining percentage relative to width of page
+
+li{
+	color: #FF3;
+}
+
+li.one{
+	color:blue;
+}*/
